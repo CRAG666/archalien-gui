@@ -1,7 +1,13 @@
 ### Archalien-Gui
 
 
-* theme icons ios style
+* GUI de archalien
+
+
+[proyecto archalien](https://github.com/Asher256/archalien "proyecto archalien")
+
+
+* thanks to the archalien project
 
 
 ## preview
@@ -39,3 +45,11 @@
 
 
 ![terminal](prevew/terminal.png "De 150 x 150 píxeles")
+
+
+
+### how to use
+1.- look for the deb or rpm file that you want to convert
+
+
+2.- click on the "convertir" button
