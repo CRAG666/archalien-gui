@@ -1,0 +1,11 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=archalien-GUI
+Comment=convierte facilmente archivos deb y rpm
+Exec=python archalien-Gui.py
+Icon=archalien-gui
+Path=/opt/archalien/
+Categories=GNOME;GTK;System;Settings;X-XFCE-SettingsDialog;X-XFCE-SystemSettings;
+Terminal=false
+StartupNotify=false
